@@ -1,5 +1,5 @@
 # Benchmarking-LLMs-NEJM-AI
-ArXiv paper: [Read the paper here](https://arxiv.org/pdf/2308.04709.pdf)
+ArXiv paper: [Read the pre-print here](https://arxiv.org/pdf/2308.04709.pdf)
 
 This repository contains the code for benchmarking Large Language Models (LLMs) in our paper titled "A Comparative Study of Open-Source Large Language Models, GPT-4, and Claude 2: Multiple-Choice Test Taking in Nephrology." Here, you will find instructions for running inference on open-sourced LLMs, including Falcon, Orca-Mini, Vicuna, Llama-70b, and Koala, using the Nephrology dataset.
 
