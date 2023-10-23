@@ -5,7 +5,7 @@ This repository contains the code for benchmarking Large Language Models (LLMs) 
 
 ## Instructions to Run Open-Sourced Models:
 1. Open the Jupyter notebook of the corresponding open-sourced model.
-2. Replace the JSON path with the one located in the "data" folder. The "data" folder contains the Nephrology dataset, including case data and ground truth labels.
+2. Replace the JSON path with the one located in the "Data" folder. The "Data" folder contains the Nephrology dataset, including case data and ground truth labels.
 3. Run the code to perform inference with the LLM.
 
 ## Model Benchmarking:
