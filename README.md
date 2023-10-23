@@ -1,4 +1,5 @@
 # Benchmarking-LLMs-NEJM-AI
+ArXiv paper: https://arxiv.org/pdf/2308.04709.pdf
 
 This repository contains the code for benchmarking Large Language Models (LLMs) in our paper titled "A Comparative Study of Open-Source Large Language Models, GPT-4, and Claude 2: Multiple-Choice Test Taking in Nephrology." Here, you will find folders dedicated to the following tasks:
 
