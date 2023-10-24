@@ -2,10 +2,13 @@
 ArXiv paper: [Read the pre-print here](https://arxiv.org/pdf/2308.04709.pdf)
 
 This repository contains the code for benchmarking Large Language Models (LLMs) in our paper titled "A Comparative Study of Open-Source Large Language Models, GPT-4, and Claude 2: Multiple-Choice Test Taking in Nephrology." Here, you will find instructions for running inference on open-sourced LLMs, including Falcon, Orca-Mini, Vicuna, Llama-70b, and Koala, using the Nephrology dataset.
+## Instructions to Access Data:
+We provide our data request at this link:  [Access the data here](https://drive.google.com/drive/folders/1q06Wjkl0ItUS7RYXmwtkIq-9WEH_RbQz?usp=drive_link)
+Please request access and leave a message for the reason requesting the dataset. 
 
 ## Instructions to Run Open-Sourced Models:
 1. Open the Jupyter notebook of the corresponding open-sourced model.
-2. Replace the JSON path with the one located in the "Data" folder. The "Data" folder contains the Nephrology dataset, including case data and ground truth labels.
+2. Replace the JSON path with the one downloaded from the requested link. 
 3. Run the code to perform inference with the LLM.
 
 ## Model Benchmarking:
